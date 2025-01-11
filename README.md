@@ -9,9 +9,11 @@ size_categories:
 - 1M<n<10M
 ---
 
-# Medical Question and Answer Dataset
+# Medical Question and Answering Dataset
 
 Crawled from https://drhast.com.
+
+Also available at https://huggingface.co/datasets/AliMoameri/drhast-persian-medical-QA.
 
 # Dataset Structure
 ```json
